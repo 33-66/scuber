@@ -23,6 +23,5 @@ function switchOnCharmFromTip(tip){switch(tip){
     default:
       return "Bye."
 
-
   // Write your code here!
-}
+}}
